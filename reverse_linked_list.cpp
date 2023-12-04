@@ -23,6 +23,8 @@ public:
             prev = current;
             current = next;
         }
+        // 1 2 3
+        //
         return prev;
     }
 
